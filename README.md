@@ -1,2 +1,2 @@
 # California-Housing-Models
-Determining the most model to predict housing prices in California. 
+Determining the best model to predict housing prices in California. 
