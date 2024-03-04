@@ -1,2 +1,2 @@
-# California-Housing-Models
-Determining the best model to predict housing prices in California. 
+# Heart Disease Prediction
+Determining the best model to predict heart disease. 
